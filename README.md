@@ -1,4 +1,4 @@
-# stateful_project
+# Praktikum 4
 
 A new Flutter project.
 
